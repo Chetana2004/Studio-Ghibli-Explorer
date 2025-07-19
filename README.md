@@ -19,6 +19,5 @@ A web application that lets users explore movies from the famous Studio Ghibli. 
 - React.js
 - Axios (for API calls)
 - HTML/CSS
-- Studio Ghibli API: https://ghibliapi.vercel.app/
 
 ---
