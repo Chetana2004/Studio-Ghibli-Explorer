@@ -15,9 +15,8 @@ A web application that lets users explore movies from the famous Studio Ghibli. 
 ---
 
 ## Tech Stack
-
-- React.js
-- Axios (for API calls)
-- HTML/CSS
+- HTMl
+- CSS
+- JavaScript
 
 ---
