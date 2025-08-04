@@ -1,7 +1,7 @@
 
 # Studio Ghibli Explorer
 
-A web application that lets users explore movies from the famous Studio Ghibli. It fetches data using the public Studio Ghibli API and displays movie information in a clean and interactive way.
+A web application that lets users explore movies from the famous Studio Ghibli. It fetches data using the MyAnimeList API and displays movie information in a clean and interactive way.
 
 ---
 
@@ -10,7 +10,7 @@ A web application that lets users explore movies from the famous Studio Ghibli. 
 - List of all Studio Ghibli films
 - View details like title, director, release date, description, and rating
 - Responsive and user-friendly design
-- Powered by the Studio Ghibli API
+- Powered by the MyAnimeList API
 
 ---
 
